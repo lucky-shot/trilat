@@ -1,5 +1,5 @@
 {
-  "name": "trilat",
+  "name": "trilateration",
   "version": "1.0.0",
   "description": "Trilateration using 'ml-levenberg-marquardt' library.",
   "main": "index.js",

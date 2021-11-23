@@ -1,4 +1,4 @@
-# trilat
+# trilateration
 
 Trilateration using 'ml-levenberg-marquardt' library.
 

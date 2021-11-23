@@ -1,11 +1,11 @@
-const trilat = require('./index');
+const trilateration = require('./index');
 
 const input1 = [
     [ 0.0,  0.0, 10.0],
     [10.0, 10.0, 10.0],
     [10.0,  0.0, 14.142135]
 ];
-console.log(trilat(input1));
+console.log(trilateration(input1));
 // 0, 10
 
 const input2 = [
@@ -14,6 +14,6 @@ const input2 = [
     [ 13.411852419376373, 52.517451542755744, 0.00013223416825424052 ],
     [ 13.411777317523956, 52.517551921537326, 0.00015417372109565594 ]
 ];
-console.log(trilat(input2));
+console.log(trilateration(input2));
 // 13.412018716335297, 52.51753029523384
 
