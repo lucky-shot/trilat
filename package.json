@@ -1,0 +1,10 @@
+{
+  "name": "trilat",
+  "version": "1.0.0",
+  "description": "Trilateration using 'ml-levenberg-marquardt' library.",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "ml-levenberg-marquardt": "^3.1.1"
+  }
+}
