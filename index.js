@@ -1,4 +1,4 @@
-const LM = require('ml-levenberg-marquardt');
+const LM = require('./ml-levenberg-marquardt');
 
 // distance function
 const euclidean = (p) => (t) => {
